@@ -4,11 +4,11 @@ https://prnt.sc/p7dq4QsNJnK6
 
 # Отримуємо контакт по id
 
-![](https://prnt.sc/BAbmrDGPgfdH)
+!(https://prnt.sc/BAbmrDGPgfdH)
 
 # Додаємо контакт
 
-![](https://prnt.sc/VCeiANW9fqPN)
+(https://prnt.sc/VCeiANW9fqPN)
 
 # Видаляємо контакт
 
