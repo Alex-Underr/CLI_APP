@@ -11,6 +11,7 @@ program.parse(process.argv);
 const argv = program.opts();
 
 const contacts = require("./contacts");
+
 const invokeAction = async ({ action, id, name, email, phone }) => {
   switch (action) {
     case "list":
@@ -32,6 +33,7 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
       const deletedContact = await contacts.removeContact(id);
       console.table(deletedContact);
       break;
+
     default:
       console.warn("\x1B[31m Unknown action type!");
   }
