@@ -1,15 +1,15 @@
-# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 ![](https://i.ibb.co/fFMqrn5/12.jpg)
 
-# Отримуємо контакт по id
+## Отримуємо контакт по id
 
-!(https://prnt.sc/BAbmrDGPgfdH)
+![](https://i.ibb.co/gvcZvdW/2.jpg)
 
-# Додаємо контакт
+## Додаємо контакт
 
-(https://prnt.sc/VCeiANW9fqPN)
+![](https://i.ibb.co/8KhGRsh/3.jpg)
 
-# Видаляємо контакт
+## Видаляємо контакт
 
-![](https://prnt.sc/4GkL201F4trs)
+![](https://i.ibb.co/PGp05mg/4.jpg)
